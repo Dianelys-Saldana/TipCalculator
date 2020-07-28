@@ -1,13 +1,10 @@
-# tipCalculator
-Codepath's iOS course
+# Pre-work - *Tip Calculator*
 
-# Pre-work - *Name of App Here*
+**Tip Calculator** is a tip calculator application for iOS.
 
-**Name of your app** is a tip calculator application for iOS.
+Submitted by: **Dianelys Saldaña**
 
-Submitted by: **Your Name Here**
-
-Time spent: **X** hours spent in total
+Time spent: **5** hours spent in total
 
 ## User Stories
 
