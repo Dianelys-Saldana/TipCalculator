@@ -23,6 +23,14 @@ The following **additional** features are implemented:
 
 - [X] Added a logo for the app.
 
+## Video Walkthrough 
+
+Here's a walkthrough of implemented user stories:
+
+<img src='http://g.recordit.co/OW1EwMmEvD.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with [Recordit.co](https://recordit.co/).
+
 ## License
 
     Copyright 2020 Dianelys Saldaña
