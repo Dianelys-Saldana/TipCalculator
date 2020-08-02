@@ -4,7 +4,7 @@
 
 Submitted by: **Dianelys Saldaña**
 
-Time spent: **8** hours spent in total
+Time spent: **6** hours spent in total
 
 ## User Stories
 
