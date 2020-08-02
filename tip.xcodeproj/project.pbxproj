@@ -15,6 +15,8 @@
 		EFE878D824CE79C9009E56B3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EFE878D624CE79C9009E56B3 /* LaunchScreen.storyboard */; };
 		EFE878E324CE79C9009E56B3 /* tipTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFE878E224CE79C9009E56B3 /* tipTests.swift */; };
 		EFE878EE24CE79C9009E56B3 /* tipUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFE878ED24CE79C9009E56B3 /* tipUITests.swift */; };
+		EFE878FC24D25D9C009E56B3 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFE878FB24D25D9C009E56B3 /* SettingsViewController.swift */; };
+		EFE8791824D66160009E56B3 /* icon-app-tip.png in Resources */ = {isa = PBXBuildFile; fileRef = EFE8791724D66160009E56B3 /* icon-app-tip.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		EFE878E924CE79C9009E56B3 /* tipUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = tipUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EFE878ED24CE79C9009E56B3 /* tipUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tipUITests.swift; sourceTree = "<group>"; };
 		EFE878EF24CE79C9009E56B3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EFE878FB24D25D9C009E56B3 /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
+		EFE8791724D66160009E56B3 /* icon-app-tip.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-app-tip.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,9 +107,11 @@
 				EFE878CD24CE79C5009E56B3 /* SceneDelegate.swift */,
 				EFE878CF24CE79C5009E56B3 /* ViewController.swift */,
 				EFE878D124CE79C5009E56B3 /* Main.storyboard */,
+				EFE878FB24D25D9C009E56B3 /* SettingsViewController.swift */,
 				EFE878D424CE79C9009E56B3 /* Assets.xcassets */,
 				EFE878D624CE79C9009E56B3 /* LaunchScreen.storyboard */,
 				EFE878D924CE79C9009E56B3 /* Info.plist */,
+				EFE8791724D66160009E56B3 /* icon-app-tip.png */,
 			);
 			path = tip;
 			sourceTree = "<group>";
@@ -232,6 +238,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EFE8791824D66160009E56B3 /* icon-app-tip.png in Resources */,
 				EFE878D824CE79C9009E56B3 /* LaunchScreen.storyboard in Resources */,
 				EFE878D524CE79C9009E56B3 /* Assets.xcassets in Resources */,
 				EFE878D324CE79C5009E56B3 /* Main.storyboard in Resources */,
@@ -262,6 +269,7 @@
 				EFE878D024CE79C5009E56B3 /* ViewController.swift in Sources */,
 				EFE878CC24CE79C5009E56B3 /* AppDelegate.swift in Sources */,
 				EFE878CE24CE79C5009E56B3 /* SceneDelegate.swift in Sources */,
+				EFE878FC24D25D9C009E56B3 /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
